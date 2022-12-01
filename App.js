@@ -20,7 +20,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import Login from './src/fonts/screens/Login';
+import Login from './src/screens/Login';
 
 
 /* $FlowFixMe[missing-local-annot] The type annotation(s) required by Flow's
